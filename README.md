@@ -96,7 +96,7 @@ graph TB
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Vatsal315/rate-my-professor-ai.git
+git clone https://github.com/Vatsal315/rate-my-professor-ai-clean.git
 cd rate-my-professor-ai
 ```
 
@@ -302,8 +302,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Vatsal315/rate-my-professor-ai/issues)
-- **Documentation**: Check our [Wiki](https://github.com/Vatsal315/rate-my-professor-ai/wiki)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/Vatsal315/rate-my-professor-ai-clean/issues)
+- **Documentation**: Check our [Wiki](https://github.com/Vatsal315/rate-my-professor-ai-clean/wiki)
 
 ## 🎯 Roadmap
 
