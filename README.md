@@ -37,7 +37,7 @@ An intelligent professor rating and recommendation system powered by AI, machine
 
 ## 🚀 Live Demo
 
-**🌐 [Try Rate My Professor AI](https://rate-my-professor-e6gy2670r-vatsa-chhetas-projects.vercel.app)**
+**🌐 [Try Rate My Professor AI](https://rate-my-professor-8h010oshc-vatsa-chhetas-projects.vercel.app)**
 
 ## 🛠️ Tech Stack
 
