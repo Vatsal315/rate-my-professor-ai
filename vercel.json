@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "app/api/train/route.js": {
+      "maxDuration": 300
+    },
+    "app/api/predict/route.js": {
+      "maxDuration": 60
+    }
+  },
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.9"
+    }
+  }
+}
